@@ -1,0 +1,77 @@
+Grade report for build: jrl
+
+Total: 0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+builder
+score=0	weight=1	multiplier=false
+***Program failed with status code -1
+
+--- end of output ---
+--- std error ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test000
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test001
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test002
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test003
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test004
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test005
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test006
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test007
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test008
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test009
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test010
+score=0	weight=1	multiplier=false
+Output line 0:
+  expected: How many numbers are printed on the lottery ticket? How many number
+  observed:  --- end of output ---

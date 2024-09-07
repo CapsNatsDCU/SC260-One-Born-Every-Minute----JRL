@@ -1,0 +1,270 @@
+2024-09-07 08:08:13,631 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 08:08:13,727 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 08:08:13,728 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 08:08:13,735 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,735 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,743 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,743 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,747 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,747 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,749 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,750 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,752 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,752 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,755 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,755 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,758 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,758 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,760 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,760 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,763 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,763 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,765 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,765 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,768 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:08:13,768 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:08:13,774 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:08:13,776 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:08:13,780 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:08:13,784 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:08:13,785 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 08:10:11,858 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 08:10:11,968 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 08:10:11,969 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 08:10:11,977 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:11,977 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:11,987 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:11,987 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:11,993 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:11,993 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:11,996 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:11,996 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:11,999 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:11,999 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,004 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,004 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,007 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,007 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,011 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,011 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,014 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,014 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,017 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,017 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,020 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:10:12,020 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:10:12,028 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:10:12,031 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:10:12,035 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:10:12,040 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:10:12,042 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 08:11:54,122 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 08:11:54,224 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 08:11:54,225 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 08:11:54,230 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,230 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,239 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,239 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,242 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,243 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,245 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,245 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,248 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,248 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,251 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,251 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,254 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,254 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,257 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,257 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,259 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,259 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,262 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,262 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,264 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:11:54,264 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:11:54,270 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:11:54,272 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:11:54,275 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:11:54,280 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:11:54,281 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 08:12:24,136 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 08:12:24,236 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 08:12:24,237 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 08:12:24,243 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,243 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,250 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,251 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,254 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,254 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,256 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,256 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,260 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,260 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,262 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,262 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,265 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,265 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,268 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,268 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,271 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,271 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,273 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,273 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,276 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:12:24,277 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:12:24,283 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:12:24,285 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:12:24,288 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:12:24,292 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:12:24,293 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 08:13:08,167 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 08:13:08,277 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 08:13:08,278 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 08:13:08,283 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,283 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,292 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,292 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,300 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,300 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,304 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,304 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,307 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,307 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,310 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,310 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,312 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,312 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,315 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,315 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,318 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,318 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,321 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,321 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,323 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 08:13:08,323 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 08:13:08,329 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:13:08,332 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:13:08,335 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:13:08,340 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 08:13:08,341 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 10:01:39,800 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 10:01:39,908 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 10:01:39,908 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 10:01:39,914 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,915 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,923 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,923 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,926 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,926 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,930 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,930 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,933 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,933 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,936 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,936 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,939 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,939 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,942 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,942 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,945 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,945 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,947 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,948 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,950 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:01:39,950 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:01:39,956 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:01:39,958 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:01:39,962 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:01:39,966 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:01:39,967 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 10:04:37,471 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 10:04:37,580 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 10:04:37,581 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 10:04:37,587 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,587 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,595 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,595 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,598 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,598 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,602 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,602 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,606 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,606 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,609 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,609 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,612 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,612 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,615 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,615 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,619 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,619 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,621 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,621 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,624 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:04:37,624 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:04:37,631 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:04:37,634 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:04:37,638 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:04:37,643 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:04:37,644 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 10:05:19,334 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 10:05:19,434 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 10:05:19,435 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 10:05:19,441 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,441 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,449 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,449 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,452 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,452 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,455 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,455 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,457 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,457 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,460 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,460 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,462 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,463 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,465 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,465 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,468 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,468 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,471 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,471 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,473 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:19,473 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:19,479 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:19,481 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:19,484 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:19,488 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:19,489 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder
+2024-09-07 10:05:49,635 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite build/Tests -submissions .. -recording build -inPlace
+2024-09-07 10:05:49,736 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: make -k 
+2024-09-07 10:05:49,738 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 600
+2024-09-07 10:05:49,743 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,743 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,752 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,752 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,755 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,755 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,757 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,757 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,760 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,761 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,763 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,763 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,765 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,766 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,769 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,769 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,771 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,771 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,774 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,774 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,776 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./lottery 
+2024-09-07 10:05:49,776 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - .. 10
+2024-09-07 10:05:49,783 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:49,785 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:49,790 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:49,795 WARN [main] edu.odu.cs.zeil.codegrader.ExternalProcess:302 - Could not launch git log -1 --date=format:%Y-%m-%d_%T --format=%ad with: git log -1 --date=format:%Y-%m-%d_%T --format=%ad
+2024-09-07 10:05:49,797 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:503 - removing build/Tests/builder

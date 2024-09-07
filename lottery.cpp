@@ -3,9 +3,20 @@
 
 using namespace std;
 
-void solve(int howManyNumbers, int numberSelected)
+void solve(int howManyNumbers, int numberSelected) // N,k
 {
-    //**  Your code here.
+    if (howManyNumbers < 1 || numberSelected < 1){
+        cout << "This is not a possible lottery.";
+        return;
+    } else {
+        double NNN = 1;
+        while (numberSelected > 0){
+            NNN = NNN * (howManyNumbers - numberSelected + 1 ) / numberSelected;
+            numberSelected --;
+        }
+        cout << "Your chances of winning are 1 in " << fixed << setprecision(0) << NNN << endl;
+    }
+    return;
 }
 
 int main(int argc, char **argv)

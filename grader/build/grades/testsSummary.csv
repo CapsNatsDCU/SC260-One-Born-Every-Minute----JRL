@@ -1,0 +1,38 @@
+Test,Score,Weight,Msgs
+"builder: Attempt to build the program.",0,1,"***Program failed with status code -1
+
+--- end of output ---
+--- std error ---"
+"test000",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test001",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test002",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test003",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test004",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test005",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test006",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test007",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test008",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test009",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
+"test010",0,1,"Output line 0:
+  <i>expected: </i><span class='expected'>How</span> many numbers are printed on the lottery ticket? How many number
+  <i>observed: </i><span class='observed'> </span>--- end of output ---"
