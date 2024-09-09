@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 void solve(int howManyNumbers, int numberSelected) // N,k
 {
     if (howManyNumbers < 1 || numberSelected < 1){
