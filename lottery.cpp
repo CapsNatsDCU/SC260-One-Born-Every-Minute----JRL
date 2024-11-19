@@ -7,7 +7,7 @@ using namespace std;
 void solve(int howManyNumbers, int numberSelected) // N,k
 {
     if (howManyNumbers < 1 || numberSelected < 1){
-        cout << "This is not a possible lottery.";
+        cout << "Your chances of winning are 1 in 0";
         return;
     } else {
         double NNN = 1;
